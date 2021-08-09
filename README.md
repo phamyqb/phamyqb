@@ -50,4 +50,9 @@ Tools:
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [facebook]: https://www.facebook.com/phamyqb
 
-<style>body {text-align: left}</style>
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+  }
+</style>
