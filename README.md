@@ -51,7 +51,7 @@ Tools:
 [facebook]: https://www.facebook.com/phamyqb
 
 <style>
-  ul {
+  .markdown-body ul {
     display: flex;
     flex-direction: column;
   }
