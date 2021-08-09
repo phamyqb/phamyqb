@@ -9,11 +9,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamyqb)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamyqb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div style="display: flex; flex-direction: column;">
 
 ## Languages and Tools:
 Frontend:
-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML]()
+- [HTML]
+- [CSS]
+- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()[HTML]
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS]()
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> SASS]()
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Javascript]()
@@ -40,7 +41,6 @@ Tools:
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> Git]()
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Github]()
 - [<img align="left" alt="HTML5" width="26px" style="margin-top: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Terminal]()
-</div>
 <br />
 <br />
 
@@ -50,3 +50,5 @@ Tools:
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [facebook]: https://www.facebook.com/phamyqb
+
+[HTML]: <HTML>
