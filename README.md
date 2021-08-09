@@ -1,3 +1,13 @@
+---
+title: "Readme"
+author: "Y Pham"
+date: "2021-08-09"
+output: 
+  html_document:
+     css: style.css
+     self_contained: no
+---
+
 ### Hi there, I'm Y Pham - [phamyqb] 👋
 ### I'm a Full Stack Developer!!
 
@@ -9,8 +19,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamyqb)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamyqb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Languages and Tools:
+## Languages and Tools: {#align-left}
 Frontend:
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML]()
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS]()
@@ -49,10 +58,3 @@ Tools:
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [facebook]: https://www.facebook.com/phamyqb
-
-<style>
-  .markdown-body ul {
-    display: flex;
-    flex-direction: column;
-  }
-</style>
