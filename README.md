@@ -28,7 +28,6 @@ Backend:
 - [<img width="26px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" /> Python]()
 
 Databases:
-- [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> GraphQL]()
 - [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> Mongo]()
 - [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL]()
 
